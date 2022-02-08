@@ -10,7 +10,7 @@
 
 - Learning
 
-| [<img src="https://github.com/Bellotta-P/GitHub.styling/blob/main/Img/MongoDB.png" alt="MongoDB logo" width="38">](https://www.mongodb.com/)  | [<img src="https://github.com/Bellotta-P/GitHub.styling/blob/main/Img/TypeScripts.png" alt="TypeScript logo" width="38">](https://www.typescriptlang.org/) |  [<img src="https://github.com/Bellotta-P/GitHub.styling/blob/main/Img/TypeScripts.png" alt="JavaScript logo" width="38">](https://www.javascript.com/)| 
+| [<img src="https://github.com/Bellotta-P/GitHub.styling/blob/main/Img/MongoDB.png" alt="MongoDB logo" width="38">](https://www.mongodb.com/)  | [<img src="https://github.com/Bellotta-P/GitHub.styling/blob/main/Img/TypeScripts.png" alt="TypeScript logo" width="38">](https://www.typescriptlang.org/) |  [<img src="https://github.com/Bellotta-P/GitHub.styling/blob/main/Img/JavaScript.png" alt="JavaScript logo" width="38">](https://www.javascript.com/)| 
 
 
 ### Tools 🛠️
